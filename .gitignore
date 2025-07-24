@@ -1,0 +1,7 @@
+# Ignore API Keys
+.streamlit/
+
+# Ignore operating system files
+.DS_Store
+pages/.DS_Store
+pages/.ipynb_checkpoints/
